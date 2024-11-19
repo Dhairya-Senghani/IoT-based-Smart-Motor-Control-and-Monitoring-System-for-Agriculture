@@ -1,2 +1,2 @@
 # IoT-based-Smart-Motor-Control-and-Monitoring-System-for-Agriculture
-C:\Users\Dhairya\Desktop\HW_Photo.png
+![HW_Photo](https://github.com/user-attachments/assets/b35d616d-e842-4a4a-805a-a3cad1d98a04)
